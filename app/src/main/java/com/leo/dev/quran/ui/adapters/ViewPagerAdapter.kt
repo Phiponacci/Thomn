@@ -1,10 +1,10 @@
-package com.fo.dev.quran.ui.adapters
+package com.leo.dev.quran.ui.adapters
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.fo.dev.quran.R
-import com.fo.dev.quran.ui.adapters.ViewPagerAdapter.ViewHolder
+import com.leo.dev.quran.R
+import com.leo.dev.quran.ui.adapters.ViewPagerAdapter.ViewHolder
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 

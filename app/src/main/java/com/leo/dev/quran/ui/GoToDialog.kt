@@ -1,8 +1,8 @@
-package com.fo.dev.quran.ui
+package com.leo.dev.quran.ui
 
 import android.app.Dialog
 import android.content.Context
-import com.fo.dev.quran.databinding.GotoDialogBinding
+import com.leo.dev.quran.databinding.GotoDialogBinding
 
 
 class GoToDialog(context: Context) : Dialog(context) {

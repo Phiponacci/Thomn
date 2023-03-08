@@ -1,14 +1,14 @@
-package com.fo.dev.quran
+package com.leo.dev.quran
 
 import android.os.Bundle
 import android.widget.SeekBar
 import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager2.widget.ViewPager2
-import com.fo.dev.quran.databinding.ActivityMainBinding
-import com.fo.dev.quran.ui.AboutDialog
-import com.fo.dev.quran.ui.GoToDialog
-import com.fo.dev.quran.ui.IndexDialog
-import com.fo.dev.quran.ui.adapters.ViewPagerAdapter
+import com.leo.dev.quran.databinding.ActivityMainBinding
+import com.leo.dev.quran.ui.AboutDialog
+import com.leo.dev.quran.ui.GoToDialog
+import com.leo.dev.quran.ui.IndexDialog
+import com.leo.dev.quran.ui.adapters.ViewPagerAdapter
 
 
 class MainActivity : AppCompatActivity() {

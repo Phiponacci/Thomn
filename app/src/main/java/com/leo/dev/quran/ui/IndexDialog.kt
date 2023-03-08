@@ -1,11 +1,11 @@
-package com.fo.dev.quran.ui
+package com.leo.dev.quran.ui
 
 import android.app.Dialog
 import android.content.Context
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.fo.dev.quran.SurahRepository
-import com.fo.dev.quran.databinding.IndexDialogBinding
-import com.fo.dev.quran.ui.adapters.SurahAdapter
+import com.leo.dev.quran.SurahRepository
+import com.leo.dev.quran.databinding.IndexDialogBinding
+import com.leo.dev.quran.ui.adapters.SurahAdapter
 
 
 class IndexDialog(context: Context) : Dialog(context) {

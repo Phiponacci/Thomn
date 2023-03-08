@@ -1,17 +1,17 @@
-package com.fo.dev.quran.ui.adapters
+package com.leo.dev.quran.ui.adapters
 
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.fo.dev.quran.R
-import com.fo.dev.quran.ui.adapters.SurahAdapter.ViewHolder
+import com.leo.dev.quran.R
+import com.leo.dev.quran.ui.adapters.SurahAdapter.ViewHolder
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.content.res.AppCompatResources
-import com.fo.dev.quran.Surah
-import com.fo.dev.quran.SurahType
+import com.leo.dev.quran.Surah
+import com.leo.dev.quran.SurahType
 
 class SurahAdapter(val context: Context, val surahList: List<Surah>) :
     RecyclerView.Adapter<ViewHolder>() {

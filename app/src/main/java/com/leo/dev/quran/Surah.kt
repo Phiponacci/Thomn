@@ -1,4 +1,4 @@
-package com.fo.dev.quran
+package com.leo.dev.quran
 
 enum class SurahType{
     MADANIA, MAKIYAH

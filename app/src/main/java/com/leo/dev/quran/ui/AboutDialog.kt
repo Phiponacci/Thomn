@@ -1,8 +1,8 @@
-package com.fo.dev.quran.ui
+package com.leo.dev.quran.ui
 
 import android.app.Dialog
 import android.content.Context
-import com.fo.dev.quran.databinding.AboutDialogBinding
+import com.leo.dev.quran.databinding.AboutDialogBinding
 
 
 class AboutDialog(context: Context) : Dialog(context) {
