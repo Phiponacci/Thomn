@@ -1,10 +1,10 @@
-<h1 align="center">(Thomn) ثُمن</h1>
+<h1 align="center" style="font-weight: bold">(Thomn) ثُمن</h1>
 <p align="center">
     <img src="screenshots/Feature Graphic.png"/>
   </a>
 </p>
 
-Thomn is an Android application that allows users to read and navigate the Holy Quran on their mobile devices. The app features two main functions: Index and Goto.
+***Thomn*** is an Android application that allows users to read and navigate the Holy Quran on their mobile devices. The app features two main functions: Index and Goto.
 
 [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)]()
 
@@ -21,7 +21,7 @@ The Goto feature allows users to find a specific 'hizb' or 'thomn' within the Qu
 
 ## Mushaf of the application
 
-The used mushaf in this application is the **Chadli** mushaf of algeria.
+The used mushaf in this application is the **Chadli** mushaf of Algeria.
 
 This mushaf is divided into 60 **'hizb's** and every 'hizb' is divided into 8 **'thomn's** to help its users to memorize it. 
 
@@ -45,7 +45,7 @@ On Tablet:
 
 ## Installation
 
-To install QuranApp, follow these steps:
+To install Thomn, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio.
@@ -53,13 +53,13 @@ To install QuranApp, follow these steps:
 
 ## Usage
 
-To use QuranApp, simply launch the app and select the desired surah from the Index, or select the 'hizb' or 'thomn' you wish to find in the Goto Popup. The app will take you directly to the corresponding page.
+To use ***Thomn***, simply launch the app and select the desired surah from the Index, or select the 'hizb' or 'thomn' you wish to find in the Goto Popup. The app will take you directly to the corresponding page.
 
 
 
 ## Contributing
 
-If you'd like to contribute to QuranApp, please follow these steps:
+If you'd like to contribute to Thomn, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
@@ -78,7 +78,7 @@ Add the memorize feature ('hifz') to the application.
 
 # Donations
 
-If you found QuranApp useful, please consider making a donation to support its ongoing development. Your contribution will help ensure that we can continue to provide updates and improvements to the app.
+If you found ***Thomn*** useful, please consider making a donation to support its ongoing development. Your contribution will help ensure that we can continue to provide updates and improvements to the app.
 
 Developer paypal email: <leo.phibonacci@gmail.com>
 
