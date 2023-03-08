@@ -1,6 +1,13 @@
-# QuranApp
+<h1 align="center">(Thomn) ثُمن</h1>
+<p align="center">
+    <img src="screenshots/Feature Graphic.png"/>
+  </a>
+</p>
 
-QuranApp is an Android application that allows users to read and navigate the Holy Quran on their mobile devices. The app features two main functions: Index and Goto.
+Thomn is an Android application that allows users to read and navigate the Holy Quran on their mobile devices. The app features two main functions: Index and Goto.
+
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)]()
+
 
 ## Features
 
@@ -19,9 +26,21 @@ The used mushaf in this application is the **Chadli** mushaf of algeria.
 This mushaf is divided into 60 **'hizb's** and every 'hizb' is divided into 8 **'thomn's** to help its users to memorize it. 
 
 ## Screenshots
-<img src="/screenshots/index_feature.png" alt="Index" width=200/>
-<img src="/screenshots/goto_feature.png" alt="Index" width=200/>
-<img src="/screenshots/about_feature.png" alt="Index" width=200/>
+
+On Phone: 
+
+<div align="center">
+<img src="screenshots/phone/index_feature.png" alt="Index" width=200/>
+<img src="screenshots/phone/goto_feature.png" alt="Index" width=200/>
+<img src="screenshots/phone/about_feature.png" alt="Index" width=200/></div>
+
+On Tablet:
+
+
+<div align="center">
+<img src="screenshots/tablets/7/7_pouce_landscape1.png" alt="Index" width=300/>
+<img src="screenshots/tablets/10/10_pouce_landscape1.png" alt="Index" width=300/>
+</div>
 
 
 ## Installation
