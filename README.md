@@ -75,6 +75,7 @@ Add the memorize feature ('hifz') to the application.
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/phiponatchi)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01556fb0a54a5fa971)
+[![Portfolio](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://phiponacci.github.io/portfolio/)
 
 # Donations
 
